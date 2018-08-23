@@ -1,0 +1,11 @@
+C:\Projects\BNP_Paribas\BNPP-AddItUp\WebApi\WebApi\bin\Debug\netcoreapp2.0\WebApi.deps.json
+C:\Projects\BNP_Paribas\BNPP-AddItUp\WebApi\WebApi\bin\Debug\netcoreapp2.0\WebApi.runtimeconfig.json
+C:\Projects\BNP_Paribas\BNPP-AddItUp\WebApi\WebApi\bin\Debug\netcoreapp2.0\WebApi.runtimeconfig.dev.json
+C:\Projects\BNP_Paribas\BNPP-AddItUp\WebApi\WebApi\bin\Debug\netcoreapp2.0\WebApi.dll
+C:\Projects\BNP_Paribas\BNPP-AddItUp\WebApi\WebApi\bin\Debug\netcoreapp2.0\WebApi.pdb
+C:\Projects\BNP_Paribas\BNPP-AddItUp\WebApi\WebApi\obj\Debug\netcoreapp2.0\WebApi.csprojAssemblyReference.cache
+C:\Projects\BNP_Paribas\BNPP-AddItUp\WebApi\WebApi\obj\Debug\netcoreapp2.0\WebApi.csproj.CoreCompileInputs.cache
+C:\Projects\BNP_Paribas\BNPP-AddItUp\WebApi\WebApi\obj\Debug\netcoreapp2.0\WebApi.AssemblyInfoInputs.cache
+C:\Projects\BNP_Paribas\BNPP-AddItUp\WebApi\WebApi\obj\Debug\netcoreapp2.0\WebApi.AssemblyInfo.cs
+C:\Projects\BNP_Paribas\BNPP-AddItUp\WebApi\WebApi\obj\Debug\netcoreapp2.0\WebApi.dll
+C:\Projects\BNP_Paribas\BNPP-AddItUp\WebApi\WebApi\obj\Debug\netcoreapp2.0\WebApi.pdb
